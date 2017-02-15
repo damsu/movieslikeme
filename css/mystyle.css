@@ -1,0 +1,36 @@
+#footer{
+ position:fixed;
+ bottom:0;
+ left:0;
+}
+
+ .navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+  height: 100%;
+  padding: 0px;
+  width: auto;
+}
+
+ .image{
+    position:relative;
+    overflow:hidden;
+    padding-bottom:100%;
+}
+.image img{
+    position:absolute;
+}
+
+#image_big{
+	float: left;
+	max-width: 100%;
+	width: 300px;
+}
+
+#details{
+	padding: 1em;
+	float: left;
+	max-width: 100%;
+	width: 500px;
+}
