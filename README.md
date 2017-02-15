@@ -1,1 +1,1 @@
-ci_thursday
+Project for course PHP Frameworks
